@@ -1,0 +1,8 @@
+[2025-01-23 17:05:28.031] [info] [global_logger] This is a log message from file1.cpp
+[2025-01-23 17:05:28.031] [warning] [global_logger] This is a warning message from file2.cpp
+[2025-01-23 17:05:34.257] [info] [global_logger] This is a log message from file1.cpp
+[2025-01-23 17:05:34.257] [warning] [global_logger] This is a warning message from file2.cpp
+[2025-01-23 17:06:06.462] [info] [global_logger] This is a log message from file1.cpp
+[2025-01-23 17:06:06.462] [warning] [global_logger] This is a warning message from file2.cpp
+[2025-01-23 17:06:17.857] [info] [global_logger] This is a log message from file1.cpp
+[2025-01-23 17:06:17.857] [warning] [global_logger] This is a warning message from file2.cpp

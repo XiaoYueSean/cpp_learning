@@ -1,0 +1,2 @@
+[2025-01-23 17:08:30.710] [info] [global_logger] This is a log message from file1.cpp
+[2025-01-23 17:08:30.710] [warning] [global_logger] This is a warning message from file2.cpp

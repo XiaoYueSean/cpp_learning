@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/zqbyd/Desktop/cpp_learning/build",
+  "command": "/usr/bin/c++  -DSPDLOG_COMPILED_LIB -I/home/zqbyd/Desktop/cpp_learning/include  -g -Wall -g   -std=gnu++17 -o CMakeFiles/VHOrin_main.dir/main.cpp.o -c /home/zqbyd/Desktop/cpp_learning/main.cpp",
+  "file": "/home/zqbyd/Desktop/cpp_learning/main.cpp"
+},
+{
+  "directory": "/home/zqbyd/Desktop/cpp_learning/build",
+  "command": "/usr/bin/c++  -DSPDLOG_COMPILED_LIB -I/home/zqbyd/Desktop/cpp_learning/include  -g -Wall -g   -std=gnu++17 -o CMakeFiles/VHOrin_main.dir/utils/logger.cpp.o -c /home/zqbyd/Desktop/cpp_learning/utils/logger.cpp",
+  "file": "/home/zqbyd/Desktop/cpp_learning/utils/logger.cpp"
+}
+]

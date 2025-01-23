@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/logger.h
+spdlog/spdlog.h
+../include/spdlog/spdlog.h
+memory
+-
+string
+-
+
+/home/zqbyd/Desktop/cpp_learning/main.cpp
+logger.h
+/home/zqbyd/Desktop/cpp_learning/logger.h
+
